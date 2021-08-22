@@ -47,9 +47,11 @@
     The biggest competitor within Robo-advisor domain in Canada is Wealthsimple. It has more asset under management ($3 billion), lower threshold to invest ($1 minimum) compared to CI direct Investing ($1000 minimum). Both platforms have mobile applications which allow users to easily access their account and see their investment portfolios easily.Also, both platforms provide a variety of accounts and access to real financial advisor when user open their account. Also, both platform provide rebalance investment services. The annual commission fee is 0.1% lower in Wealthsimple when under $100k, same commision fee(0.4%) if you invest more than $350,000 and higher than CI direct Investing if the investor deposit more than $500,000. Overall, I think both platform provide similar services of robo-advisor, while Wealthsimple has an advantage for investors with low deposit.
 ## Recommendations
 1. If you were to advisre the company, what products or services would you suggest they offer?(This could be something that a computer offers, or use your imagination!)
+    
     The company website join.cidirectinvesting.com contain too little information about their account types, and too little information on each type of account. I concluded this based on comparison with wealthsimple.com, and betterment.com. If the target audience have low financial literacy, CI direct investing should provide more detailed information of their each account type, and also introduce the tool they use in their wesite. Their website have poor maintainence, there is a link to their story page but nothing in the page. In addition, lots of reddit thread mentioned a decreased service quality in recent years, poor customer experience will cost the company their current clients and potential clients.
 2. Why do you think that offering this product or service would benefit the company？
-    Since the entire CI direct Investing is an online-based platform, their website should be complete and attractive. When limited information can be found on their website, investors will lose interest in their product and this will leave bad impression on their service providing.
+    
+    Since the entire CI direct Investing is an online-based platform, their website should be complete and attractive. When limited information can be found on their website,  investors will lose interest in their product and this will leave bad impression on their service providing.
 ## Resources
 1. https://www.youtube.com/watch?v=A5tBMr87vjM
 2. https://ca.linkedin.com/company/cidirectinvesting
